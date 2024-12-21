@@ -5,7 +5,8 @@ OUTPUTS OF ASSIGNMENT
 <br>
 Output:
 <br>
-<img scr = "https://github.com/user-attachments/assets/f0b2dec4-6cbf-4ae6-a03d-6a58e51eccf5\">
+<img src="[images/your_image.png](https://github.com/user-attachments/assets/f0b2dec4-6cbf-4ae6-a03d-6a58e51eccf5\
+)" width="300" />
 <br>
 2. Simple Arithmetic Operations Write a Dart program to perform and print the following operations on two numbers a and b: Sum Difference Product Quotient Assign a = 10 and b = 5.
 <br>
