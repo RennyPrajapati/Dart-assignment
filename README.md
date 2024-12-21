@@ -1,8 +1,9 @@
 # Dart-assignment
 OUTPUTS OF ASSIGNMENT
 <br>
-1. Hello, Dart! Welcome to Programming.
+1. Print a Message Write a Dart program that prints: Hello, Dart! Welcome to Programming.
 <br>
+<img src="sanps\F:\Renny\A RENNY\Coding\dart_assign\Dart-assignment\snaps\Capture_1.PNG">
 2. Sum: 15  
    Difference: 5  
    Product: 50  
