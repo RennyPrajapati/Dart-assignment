@@ -4,8 +4,9 @@ OUTPUTS OF ASSIGNMENT
 1. Print a Message Write a Dart program that prints: Hello, Dart! Welcome to Programming.
 <br>
 Output:
-<br>
-<img src="[snaps/Capture_1.PNG]" width="300" />
+
+![Capture_1](https://github.com/user-attachments/assets/fcec0fa5-e182-4ec5-b729-01e6cc3cb861)
+
 <br>
 2. Simple Arithmetic Operations Write a Dart program to perform and print the following operations on two numbers a and b: Sum Difference Product Quotient Assign a = 10 and b = 5.
 <br>
