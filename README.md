@@ -3,6 +3,8 @@ OUTPUTS OF ASSIGNMENT
 <br>
 1. Hello, Dart! Welcome to Programming.
 <br>
+![Capture_1]{snaps\F:\Renny\A RENNY\Coding\dart_assign\Dart-assignment\snaps\Capture_1.PNG}
+<br>
 2. Sum: 15  
    Difference: 5  
    Product: 50  
